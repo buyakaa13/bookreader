@@ -1,6 +1,6 @@
 package org.demo;
 
-import org.demo.Builder.ReaderSettings;
+import org.demo.builder.ReaderSettings;
 import org.demo.adapter.*;
 import org.demo.factory.*;
 import org.demo.observer.*;

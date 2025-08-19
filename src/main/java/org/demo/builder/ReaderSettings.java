@@ -1,4 +1,4 @@
-package org.demo.Builder;
+package org.demo.builder;
 
 public class ReaderSettings {
     private String theme;
